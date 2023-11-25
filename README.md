@@ -3,6 +3,9 @@
 ## 미션 소개 😎
 Spring Boot JPA - Rest API를 강의를 듣고, 게시판 구현 미션을 수행해봅시다.
 
+## 코드 리뷰(PR 내역) 링크
+https://github.com/prgrms-be-devcourse/springboot-board-jpa/pull/219
+
 ## 프로젝트 설계도
 ![JPA게시판](https://github.com/sujjangOvO/query-builder/assets/89267864/1efa5c80-bc33-4940-833d-ab4df20dc259)
 
